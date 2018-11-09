@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "605186433233",
+    "firebase_url": "https://total-fitness-6a8c7.firebaseio.com",
+    "project_id": "total-fitness-6a8c7",
+    "storage_bucket": "total-fitness-6a8c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605186433233:android:b97b6f4a93751ddd",
+        "android_client_info": {
+          "package_name": "com.example.ruchit.totalfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605186433233-5oef86bm8jmm98ai9ubu7o5r7i09uaio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF5Gos7H0sq3LncKiGyqMKm0Rgj79mCxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

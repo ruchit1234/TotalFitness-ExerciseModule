@@ -1,0 +1,262 @@
+<resources>
+    <string name="app_name">Total Fitness</string>
+    <integer-array name="img_id_arr">
+        <item>@drawable/welcome_male</item>
+        <item>@drawable/welcome_female</item>
+        <item>@drawable/welcome_couple</item>
+    </integer-array>
+    <string name="ropepushdown"></string>
+    <string name="diamondpushups">Lie on the floor face down and place your hands closer than shoulder width for a close hand position. \n Make sure that you are holding your torso up at arms length. \n n\
+Lower yourself until your chest almost touches the floor as you inhale. \n \n
+Using your triceps and some of your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. \n Breathe out as you perform this step. \n \n
+After a second pause at the contracted position, \n repeat the movement for the prescribed amount of repetitions.</string>
+    <string name="cablekickback">Set up for the cable tricep kickback by attaching a single grip handle to a low pulley cable machine and selecting the weight you want to use. \n \n
+Grasp the handle using your left hand with an overhand grip and take a step back from the cable machine. \n \n
+Keeping your feet together and knees slightly bent, bend down until your body is around parallel to the floor. \n \n
+Use your free right hand to stabilize yourself. \n \n
+Bring the elbow up as far as possible and keep it tight in by your side. \n This is the starting position for the exercise. \n \n
+Keeping your elbow in place and your body fixed, and extend your arm out as far as possible. \n \n
+Squeeze the tricep , and then slowly lower the weight back to the starting position. \n \n
+Repeat for desired reps.</string>
+    <string name="bicprmaccrl">To perform this movement you will need a preacher machine. \n Grab the curl bar at the close inner handle (either have someone hand you the bar which is preferable or grab the bar from the front bar rest provided by most preacher benches). \n The palm of your hands should be facing forward and they should be slightly tilted inwards due to the shape of the bar. \n \n
+With the upper arms positioned against the preacher bench pad and the chest against it, hold the Curl Bar at shoulder length. This will be your starting position. \n \n
+As you breathe in, slowly lower the bar until your upper arm is extended and the biceps is fully stretched. \n \n
+As you exhale, use the biceps to curl the weight up until your biceps is fully contracted and the bar is at shoulder height. \n Squeeze the biceps hard and hold this position for a second. \n \n
+Repeat for the recommended amount of repetitions.</string>
+    <string name="bicmaccrl">Adjust the seat to the appropriate height and make your weight selection. \n Place your upper arms against the pads and grasp the handles. \n This will be your starting position. \n \n
+Perform the movement by flexing the elbow, pulling your lower arm towards your upper arm. \n \n
+Pause at the top of the movement, and then slowly return the weight to the starting position. \n \n
+Avoid returning the weight all the way to the stops until the set is complete to keep tension on the muscles being worked.</string>
+    <string name="clsgripprchcrl">To perform this movement you will need a preacher bench and an bar. \n Grab the curl bar at the close inner handle (either have someone hand you the bar which is preferable or grab the bar from the front bar rest provided by most preacher benches). \n The palm of your hands should be facing forward and they should be slightly tilted inwards due to the shape of the bar. \n \n
+With the upper arms positioned against the preacher bench pad and the chest against it, hold the E-Z Curl Bar at shoulder length. This will be your starting position. \n \n
+As you breathe in, slowly lower the bar until your upper arm is extended and the biceps is fully stretched. \n \n
+As you exhale, use the biceps to curl the weight up until your biceps is fully contracted and the bar is at shoulder height. \n Squeeze the biceps hard and hold this position for a second. \n \n
+Repeat for the recommended amount of repetitions.</string>
+    <string name="ezbarcrl">Stand up with your torso upright while holding a E-Z bar. The palm of your hands should be facing forward and the elbows should be close to the torso. This will be your starting position. \n \n
+While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move. \n \n
+Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard. \n \n
+Slowly begin to bring the bar back to starting position as your breathe in. \n \n
+Repeat for the recommended amount of repetitions.</string>
+    <string name="lowpullcurl">Start out by grabbing single handle next to the low pulley machine. \n Make sure you are far enough from the machine so that your arm is supporting the weight. \n \n
+Make sure that your upper arm is stationary, perpendicular to the floor with elbows in and palms facing forward. \n Your non lifting arm should be grabbing your waist. \n This will allow you to keep your balance. \n \n
+Slowly begin to curl the single handle upwards while keeping the upper arm stationary until your forearm touches your bicep while exhaling. \n Tip: Only the forearm should move. \n \n
+Hold the contraction position as you squeeze the bicep and then lower the single handle back down to the starting position as you inhale. \n \n
+Repeat for the recommended amount of repetitions. \n \n
+Switch arms while performing this exercise.</string>
+    <string name="cbbiccrl">Stand up with your torso upright while holding a cable bar. The palm of your hands should be facing forward and the elbows should be close to the torso. This will be your starting position. \n \n
+While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move. \n \n
+Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard. \n \n
+Slowly begin to bring the bar back to starting position as your breathe in. \n \n
+Repeat for the recommended amount of repetitions.</string>
+    <string name="stdmcrl">>Sit back on an bench with a dumbbell in each hand held at arms length. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward. This will be your starting position. \n \n
+While holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. \n Hold the contracted position for a second. \n
+Slowly begin to bring the dumbbells back to starting position as your breathe in. \n \n
+Repeat for the recommended amount of repetitions.</string>
+    <string name="revdumcrl">To begin, stand straight with a dumbbell in each hand using a pronated grip (palms facing down).\n Your arms should be fully extended while your feet are shoulder width apart from each other. \n This is the starting position. \n \n
+While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. \n Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. \n Hold the contracted position for a second as you squeeze the muscle.
+Slowly begin to bring the dumbbells back to starting position as your breathe in. \n \n
+Repeat for the recommended amount of repetitions.</string>
+    <string name="dmconcrl">Sit down on a flat bench with one dumbbell in front of you between your legs. Your legs should be spread with your knees bent and feet on the floor. \n \n
+Use your right arm to pick the dumbbell up. Place the back of your right upper arm on the top of your inner right thigh. Rotate the palm of your hand until it is facing forward away from your thigh. Tip: Your arm should be extended and the dumbbell should be above the floor. This will be your starting position. \n \n
+While holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Tip: At the top of the movement make sure that the little finger of your arm is higher than your thumb. \n This guarantees a good contraction. \n Hold the contracted position for a second as you squeeze the biceps. \n \n
+Slowly begin to bring the dumbbells back to starting position as your breathe in. \n Caution: Avoid swinging motions at any time. \n \n
+Repeat for the recommended amount of repetitions. Then repeat the movement with the left arm.</string>
+    <string name="barprchcrl">To perform this movement you will need a preacher bench and an E-Z bar. Grab the E-Z curl bar at the close inner handle (either have someone hand you the bar which is preferable or grab the bar from the front bar rest provided by most preacher benches). The palm of your hands should be facing forward and they should be slightly tilted inwards due to the shape of the bar. \n \n
+With the upper arms positioned against the preacher bench pad and the chest against it, hold the E-Z Curl Bar at shoulder length. This will be your starting position. \n \n
+As you breathe in, slowly lower the bar until your upper arm is extended and the biceps is fully stretched. \n \n
+As you exhale, use the biceps to curl the weight up until your biceps is fully contracted and the bar is at shoulder height. \n Squeeze the biceps hard and hold this position for a second. \n \n
+Repeat for the recommended amount of repetitions.</string>
+    <string name="duminccrl">Sit back on an incline bench with a dumbbell in each hand held at arms length. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward. This will be your starting position. \n \n
+While holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. \n Hold the contracted position for a second. \n
+Slowly begin to bring the dumbbells back to starting position as your breathe in. \n \n
+Repeat for the recommended amount of repetitions.</string>
+    <string name="altdumhammercurl">
+        Stand up with your torso upright and a dumbbell on each hand being held at arms length. The elbows should be close to the torso. \n \n
+The palms of the hands should be facing your torso. This will be your starting position. \n \n
+Now, while holding your upper arm stationary, exhale and curl the weight forward one by one from each hand while contracting the biceps. Continue to raise the weight until the biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a brief moment as you squeeze the biceps. \n Tip: Focus on keeping the elbow stationary and only moving your forearm. \n \n
+After the brief pause, inhale and slowly begin the lower the dumbbells back down to the starting position. \n \n
+Repeat for the recommended amount of repetitions.</string>
+    <string name="barcurl">
+        Stand up with your torso upright while holding a barbell at a shoulder-width grip. The palm of your hands should be facing forward and the elbows should be close to the torso. This will be your starting position. \n \n
+While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move. \n \n
+Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard. \n \n
+Slowly begin to bring the bar back to starting position as your breathe in. \n \n
+Repeat for the recommended amount of repetitions.</string>
+    <string name="twisthip">1. Lie faceup on floor, with legs extended and lifted together over hips, arms by sides. \n \n
+2. Slowly lift hips off floor, and then rotate hips slightly to right. \n \n
+3. Bring hips back to center and lower to floor. \n \n
+4. Repeat, this time rotating hips slightly to left. \n Continue alternating from side to side.</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="crunches">"1)Lie on your back with your knees bent and feet flat on the floor, hip-width apart. \n \n
+
+ 2)Place your hands behind your head so your thumbs are behind your ears. \n \n
+
+ 3)Don’t lace your fingers together. \n \n
+
+ 4)Hold your elbows out to the sides but rounded slightly in.  \n \n
+
+ 5)Tilt your chin slightly, leaving a few inches of space between your chin and your chest. \n \n
+
+ 6)Gently pull your abdominals inward. \n \n
+
+ 7)Curl up and forward so that your head, neck, and shoulder blades lift off the floor. \n \n
+
+ 8)Hold for a moment at the top of the movement and then lower slowly back down.
+
+"</string>
+    <string name="dumsidebend">"1)Stand up straight while holding a dumbbell on the left hand (palms facing the torso) as you have the right hand holding your waist. \n \n
+ Your feet should be placed at shoulder width. \n \n
+ This will be your starting position. \n \n
+ 2)While keeping your back straight and your head up, bend only at the waist to the right as far as possible. \n \n
+ Breathe in as you bend to the side. \n \n
+ Then hold for a second and come back up to the starting position as you exhale. \n \n
+ Tip: Keep the rest of the body stationary. \n \n 3)Now repeat the movement but bending to the left instead. \n \n Hold for a second and come back to the starting position.
+
+ 4)Repeat for the recommended amount of repetitions and then change hands."</string>
+    <string name="declinecrunch">"1)Secure your legs at the end of the decline bench and lie down. \n \n
+
+ 2)Now place your hands lightly on either side of your head keeping your elbows in. Tip: Do not lock your fingers behind your head.\n \n
+
+ 3)While pushing the small of your back down in the bench to better isolate your abdominal muscles, begin to roll your shoulders off it. \n \n
+
+ 4)Continue to push down as hard as you can with your lower back as you contract your abdominals and exhale. Your shoulders should come up off the bench only about four inches, and your lower back should remain on the bench. At the top of the movement, contract your abdominals hard and keep the contraction for a second. \n \n Tip: Focus on slow, controlled movement - don"</string>
+    <string name="hanglegraise">"1)Hang from a chin-up bar with both arms extended at arms length in top of you using either a wide grip or a medium grip. The legs should be straight down with the pelvis rolled slightly backwards. This will be your starting position.
+
+ 2)Raise your legs until the torso makes a 90-degree angle with the legs. Exhale as you perform this movement and hold the contraction for a second or so.
+
+ 3)Go back slowly to the starting position as you breathe in.
+
+ 5)Repeat for the recommended amount of repetitions."</string>
+    <string name="inclegraise">"Starting position \n
+
+ Lie on the sit up bench and grab the handles at the top. You do need to stretch your leg entirely to protect your back. \n \n
+ Execution \n
+
+ Breathe in and lift your legs until they are almost at a right angle with the hips, and that point, raise your hips up as well. Then, pull your legs until your knees almost reach your forehead. Then, slowly and with a controlled motion, lower your hips and then your legs back until a position where your heels just touch the floor or the bench. \n
+ Correct breathing \n  \n
+
+ Breathe in when your lift our legs, and exhale when you let your legs back to the starting position."</string>
+    <string name="inclineleg">"1)Lie supine on an incline bench, positioned at an angle of 45 degrees, with your torso elevated. Use your hands to grab the sides of the bench or the feet rollers for support. \n
+
+ 2)Keeping your knees straight, extend your legs so that they are parallel to the floor. It is your starting position. \n
+
+ 3)Lift your legs up by flexing your hips as far as you can. \n
+
+ 4)When your hips are fully flexed, pause for a second and then return to the original position by slowly lowering the legs. \n
+
+ 5)Repeat the above steps for the recommended number of reps."</string>
+    <string name="jackknife">"1)Lay down on your back on a flat bench with your legs hanging off one end. \n
+
+ 2)Extend your arms out above your head, and straighten your legs. You should be laying completely flat. This is the start of the exercise. \n
+
+ 3)In one motion, while keeping your hands and feet together, raise your legs and bring your arms forward as if you were trying to touch them together. \n
+
+ 4)Lower back to the starting position.  \n
+
+ Repeat for desired reps."</string>
+
+    <string name="kneelcable">"1)Kneel below a high pulley that contains a rope attachment. \n \n
+
+ 2)Grasp cable rope attachment and lower the rope until your hands are placed next to your face. \n \n
+
+ 3)Flex your hips slightly and allow the weight to hyperextend the lower back. This will be your starting position. \n \n
+
+ 4)With the hips stationary, flex the waist as you contract the abs so that the elbows travel towards the middle of the thighs. Exhale as you perform this portion of the movement and hold the contraction for a second. \n \n
+
+ 5)Slowly return to the starting position as you inhale. Tip: Make sure that you keep constant tension on the abs throughout the movement. Also, do not choose a weight so heavy that the lower back handles the brunt of the work."</string>
+    <string name="legraise">"1.Lie on your back, legs straight and together. \n \n
+
+ 2. Keep your legs straight and lift them all the way up to the ceiling until your butt comes off the floor. \n \n
+
+ 3. Slowly lower your legs back down till they’re just above the floor. Hold for a moment.  \n \n
+
+ 4. Raise your legs back up. \n \n
+        Repeat.
+        "</string>
+    <string name="plank">"1)Lie face down with your forearms on the floor and your elbows directly beneath your shoulders. Keep your feet flexed with the bottoms of your toes on the floor. \n \n
+
+ 2) Clasp your hands in front of your face, so your forearms make an inverted “V”  \n \n
+
+ 3) Rise up on your toes so that only your forearms and toes touch the floor -- your body should hover a few inches off the floor in a straight line from shoulders to feet. \n \n
+
+ 4) Draw your navel toward your spine and tighten your buttocks. Look at the floor to keep your head in neutral position and breathe normally. \n \n
+
+ 5) Hold for at least 10 seconds and lower yourself back to the floor."</string>
+    <string name="sideplank">"1)Lie on one side with the upper foot stacked right on top of the lower foot. \n \n
+
+ 2)Place your elbow directly in line under your shoulder \n \n
+
+ 3)Lift your hips so that they form a straight line from feet, between your legs, through groin, and straight up through the middle of your neck. A mirror is essential to learning. Use a closet door mirror at home or a mirror at the gym. \n \n
+
+ 4)Maintain a straight spinal alignment both horizontally and vertically. \n \n
+
+ 5)Do not let your hips or shoulders tip forward or back. Keep them aligned with the top side of the hip directly over the other hip. \n \n
+
+ 6)The goal is to hold for 60 seconds. \n \n
+
+ 7)Remember to breathe."</string>
+    <string name="superman">"1)To begin, lie straight and face down on the floor or exercise mat. Your arms should be fully extended in front of you. This is the starting position. \n \n
+
+ 2)Simultaneously raise your arms, legs, and chest off of the floor and hold this contraction for 2 seconds.  \n \n
+
+ Tip: Squeeze your lower back to get the best results from this exercise. \n \n
+
+ Remember to exhale during this movement. \n \n
+
+ Note: When holding the contracted position, you should look like superman when he is flying. \n \n
+
+ 3)Slowly begin to lower your arms, legs and chest back down to the starting position while inhaling. \n \n
+
+ 4)Repeat for the recommended amount of repetitions prescribed in your program."</string>
+    <string name="twistcrunch">"Starting Position \n \n
+
+ Lie on the floor or a mat on your back, with knees bent and hands behind head. Feet should be flat on the ground. Keep a space between your chin and chest (looking diagonal towards the ceiling). \n \n
+
+ Action \n \n
+
+ EXHALE: As you lift up, rotate upper body toward one side, then rotate back to center. \n \n
+
+ INHALE: Lower your back to the floor. Alternate sides. \n \n
+        "</string>
+    <string name="weightcrunch">"1)Lie flat on your back with your feet flat on the ground or resting on a bench with your knees bent at a 90 degree angle. \n \n
+
+ 2)Hold a weight to your chest, or you may hold it extended above your torso. This will be your starting position. \n \n
+
+ 3)Now, exhale and slowly begin to roll your shoulders off the floor. Your shoulders should come up off the floor about 4 inches while your lower back remains on the floor. \n \n
+
+ 4)At the top of the movement, flex your abdominals and hold for a brief pause. \n \n
+
+ 5)Then inhale and slowly lower yourself back down to the starting position."</string>
+
+</resources>

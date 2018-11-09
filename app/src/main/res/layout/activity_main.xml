@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/activity_main" android:layout_width="fill_parent" android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.chabbal.slidingdotsplash.SlidingSplashView
+        android:id="@+id/splash"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:imageResources="@array/img_id_arr"/>
+
+    <ImageView
+        android:layout_width="129.0dip"
+        android:layout_height="62.0dip"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="107dp"
+        android:layout_marginLeft="107dp"
+        android:layout_marginTop="6dp"
+        android:alpha="0.5"
+        android:src="@drawable/logo" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/SliderDots"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/btlogin"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="133.0dip"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/btsingup"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="6dp"
+        android:alpha="0.75"
+        android:background="@color/colorPrimaryDark"
+        android:onClick="login"
+        android:text="Login" />
+    <Button android:id="@+id/btsingup"
+        android:background="#ff2bff00"
+        android:layout_width="133.0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="11.0dip"
+        android:text="Sign Up"
+        android:layout_alignParentBottom="true"
+        android:onClick="sign" style="@style/Widget.AppCompat.Button.Colored" />
+
+</RelativeLayout>
